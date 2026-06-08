@@ -1,4 +1,10 @@
 # 01_gantt_chart
 
-changed test description
-test 01_init issue
+## 実行方法
+```bash
+npm install
+npm run dev
+```
+
+ブラウザで下記を開く
+http://localhost:5173/
