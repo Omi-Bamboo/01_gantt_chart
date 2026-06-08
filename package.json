@@ -1,0 +1,21 @@
+{
+  "name": "01_gantt_chart",
+  "version": "1.0.0",
+  "description": "changed test description test 01_init issue",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "frappe-gantt": "^1.2.2"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3",
+    "vite": "^8.0.16"
+  }
+}
