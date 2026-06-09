@@ -1,0 +1,10 @@
+@import "../node_modules/frappe-gantt/dist/frappe-gantt.css";
+
+.container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+#gantt {
+  width: 100%;
+}
